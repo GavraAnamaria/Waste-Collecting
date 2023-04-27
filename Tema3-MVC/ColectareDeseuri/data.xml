@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<data>
+    <TOT>
+        <en>ALL</en>
+        <fr>TOUS</fr>
+        <ge>ALLE</ge>
+    </TOT>
+    <ANGAJAT>
+        <en>EMPLOYEE</en>
+        <fr>EMPLOYÉ</fr>
+        <ge>MITARBEITER</ge>
+    </ANGAJAT>
+    <ADMINISTRATOR>
+        <en>ADMINISTRATOR</en>
+        <fr>ADMINISTRATEUR</fr>
+        <ge>ADMINISTRATOR</ge>
+    </ADMINISTRATOR>
+    <COORDONATOR>
+        <en>COORDINATOR</en>
+        <fr>COORDINATEUR</fr>
+        <ge>KOORDINATOR</ge>
+    </COORDONATOR>
+    <PAROLA>
+        <en>PASSWORD:</en>
+        <fr>MOT DE PASSE:</fr>
+        <ge>PASSWORT</ge>
+    </PAROLA>
+    <NUMEUTILIZATOR>
+        <en>USER NAME:</en>
+        <fr>NOM D'UTILISATEUR:</fr>
+        <ge>BENUTZERNAME</ge>
+    </NUMEUTILIZATOR>
+    <TIPUTILIZATOR>
+        <en>USER TYPE:</en>
+        <fr>TYPE D'UTILISATEUR:</fr>
+        <ge>BENUTZERTYP</ge>
+    </TIPUTILIZATOR>
+    <ADAUGARE>
+        <en>ADD</en>
+        <fr>AJOUTER</fr>
+        <ge>HINZUFÜGEN</ge>
+    </ADAUGARE>
+    <STERGERE>
+        <en>DELETE</en>
+        <fr>EFFACEMENT</fr>
+        <ge>LÖSCHEN</ge>
+    </STERGERE>
+    <VIZUALIZARE-LOCATII>
+        <en>LOCATION VIEW</en>
+        <ge>STANDORTANSICHT</ge>
+        <fr>VUE EMPLACEMENT</fr>
+    </VIZUALIZARE-LOCATII>
+    <TRASEU-OPTIM>
+        <en>OPTIMAL ROUTE</en>
+        <ge>OPTIMALE ROUTE</ge>
+        <fr>ITINÉRAIRE OPTIMAL</fr>
+    </TRASEU-OPTIM>
+    <FORMAT>
+        <en>FILE FORMAT</en>
+        <ge>DATEI FORMAT</ge>
+        <fr>FORMAT DE FICHIER</fr>
+    </FORMAT>
+    <LOCATIE-FISIER>
+        <en>FILE LOCATION</en>
+        <ge>SPEICHERORT</ge>
+        <fr>EMPLACEMENT FICHIER</fr>
+    </LOCATIE-FISIER>
+    <DENUMIRE-FISIER>
+        <en>FILE NAME</en>
+        <ge>DATEINAMEN</ge>
+        <fr>NOM DE FICHIER</fr>
+    </DENUMIRE-FISIER>
+    <LINIAR>
+        <en>LINEAR</en>
+        <ge>LINEARES DIAGRAMM</ge>
+        <fr>GRAPHIQUE LINÉAIRE</fr>
+    </LINIAR>
+    <CIRCULAR>
+        <en>CIRCULAR</en>
+        <ge>KREISFÖRMIGE GRAFIK</ge>
+        <fr>GRAPHIQUE CIRCULAIRE</fr>
+    </CIRCULAR>
+    <RADIAL>
+        <en>RADIAL</en>
+        <ge>RADIAL GRAFIK</ge>
+        <fr>GRAPHIQUE RADIALE</fr>
+    </RADIAL>
+    <ATRIBUIRE>
+        <en>ASSIGN</en>
+        <ge>VERGEBEN</ge>
+        <fr>ATTRIBUER</fr>
+    </ATRIBUIRE>
+    <GENERARE-RAPOARTE>
+        <en>GENERATE REPORTS</en>
+        <ge>BERICHTE ERSTELLEN</ge>
+        <fr>GÉNÉRER DES RAPPORTS</fr>
+    </GENERARE-RAPOARTE>
+</data>

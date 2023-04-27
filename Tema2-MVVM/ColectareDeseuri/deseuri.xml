@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<locatie1>
+    <locatie>
+        <strada>STR1</strada>
+        <nr>2</nr>
+        <utilizator>ana</utilizator>
+    </locatie>
+    <locatie>
+        <strada>STR2</strada>
+        <nr>4</nr>
+        <utilizator>andrei</utilizator>
+    </locatie>
+    <locatie>
+        <strada>STR1</strada>
+        <nr>12</nr>
+        <utilizator>ana</utilizator>
+    </locatie>
+    <locatie>
+        <strada>STR1</strada>
+        <nr>3</nr>
+        <utilizator>andrei</utilizator>
+    </locatie>
+    <locatie>
+        <strada>STR4</strada>
+        <nr>4</nr>
+        <utilizator>ana</utilizator>
+    </locatie>
+    <locatie>
+        <strada>STR5</strada>
+        <nr>12</nr>
+        <utilizator>ana</utilizator>
+    </locatie>
+</locatie1>
